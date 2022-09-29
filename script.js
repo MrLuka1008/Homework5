@@ -172,7 +172,7 @@ console.log(
 
 // Task 8
 
-lett = [2, 1, 10];
+lett = [2, 1, 10, 15, 11];
 sum = 0;
 function sumOfDifferences(lett) {
   lett.sort((a, b) => b - a);
